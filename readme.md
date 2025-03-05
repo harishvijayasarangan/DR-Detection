@@ -9,4 +9,4 @@ and place it in the same repo as app.py , youn are good to go
 pip install -r requirements.txt
 
 ## run 
-python app.py 23
+python app.py 
